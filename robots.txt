@@ -1,0 +1,7 @@
+# Thank you for visiting another Ghaffari-Tabrizi family designed website
+# I have disabled all robots from viewing this site, as it is my private site.
+
+# For more information on this file, please visit http://www.robotstxt.org/
+
+User-agent: *
+Disallow: 
