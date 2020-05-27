@@ -16,5 +16,3 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
 ### Home
 RewriteRule ^/?$  index.php
-RewriteRule ^liverpool-fc/?$  liverpool-fc.php
-RewriteRule ^make-mom-proud/?$  make-mom-proud.php
