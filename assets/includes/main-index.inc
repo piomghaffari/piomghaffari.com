@@ -68,7 +68,7 @@
         <div class="grid-container">
           <h2 class="font-heading-xl margin-y-0">Get in touch</h2>
           <p class="usa-intro">I'm always happy to connect. If you have some interesting ideas or just want to chat, get in touch and I'm sure we can find time to meet!</p>
-          <a class="usa-button usa-button--big" href="https://www.linkedin.com/in/oghaffari/" alt="A link to my LinkedIn profile." target="_blank" rel="noopener noreferrer">Connect</a>
+          <a class="usa-button usa-button--big" href="https://www.linkedin.com/in/piomghaffari/" alt="A link to my LinkedIn profile." target="_blank" rel="noopener noreferrer">Connect</a>
         </div>
       </section>
     </main>
